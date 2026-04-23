@@ -1,5 +1,7 @@
-st.subheader("📊 Detailed Tax Breakdown")
+import streamlit as st
+import pandas as pd
 
+st.title("💰 Income Tax Calculator")
 # -------------------------------
 # OLD REGIME BREAKDOWN
 # -------------------------------
